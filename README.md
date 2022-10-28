@@ -8,13 +8,28 @@
         <p>Develop a new version of the world</p>
     </p>
 
-[![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/frappe/erpnext/actions/workflows/server-tests.yml)
-[![UI](https://github.com/erpnext/erpnext_ui_tests/actions/workflows/ui-tests.yml/badge.svg?branch=develop&event=schedule)](https://github.com/erpnext/erpnext_ui_tests/actions/workflows/ui-tests.yml)
-[![Open Source Helpers](https://www.codetriage.com/frappe/erpnext/badges/users.svg)](https://www.codetriage.com/frappe/erpnext)
-[![codecov](https://codecov.io/gh/frappe/erpnext/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/erpnext)
-[![docker pulls](https://img.shields.io/docker/pulls/frappe/erpnext-worker.svg)](https://hub.docker.com/r/frappe/erpnext-worker)
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)]()			
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/gmail-32.png)]()
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)]()
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)]()
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)]()
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)]()
 
-<!-- [https://erpnext.com](https://erpnext.com)
+<!-- 
+instagram-32
+briefcase-32
+youtube-32
+github-32
+linkedin-32
+pinterest-32
+twitter-32
+facebook-32
+whatsapp-32
+gmail-32
+ -->
+
+
+<!-- [https://discuss.erpnext.com](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
  -->
 </div>
 
