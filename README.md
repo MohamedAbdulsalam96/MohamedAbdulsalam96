@@ -9,9 +9,9 @@
     </p>
 
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedalqadasi)			
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/gmail-32.png)]()
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)]()
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)]()
+
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)](https://twitter.com/MohamedAlqadasi?t=b0PhbTbVmK_Gqm0IPdI51w&s=09)
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)](https://www.facebook.com/profile.php?id=100006434417374)
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
 
@@ -36,7 +36,7 @@ gmail-32
 
 ### Hi there 👋
 
-
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/gmail-32.png)]()
 
 
 
