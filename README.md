@@ -7,12 +7,64 @@
     <p align="center">
         <p>Develop a new version of the world</p>
     </p>
+[![linkedin](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedalqadasi)			
+[![twitter](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)](https://twitter.com/MohamedAlqadasi?t=b0PhbTbVmK_Gqm0IPdI51w&s=09)
+[![facebook](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)](https://www.facebook.com/profile.php?id=100006434417374)
+[![whatsapp](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
+[![service](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
 
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedalqadasi)			
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)](https://twitter.com/MohamedAlqadasi?t=b0PhbTbVmK_Gqm0IPdI51w&s=09)
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)](https://www.facebook.com/profile.php?id=100006434417374)
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
+[https://discuss.erpnext.com](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
+
+</div>
+
+<!--End Header and Icons  -->
+
+### Hi there 👋
+
+ERP Consultant, Projects Manager and Experienced Developer with a history of working in the ERP Systems Development (ERPNEXT). Skilled in Frappe Apps Development,  Analytical Skills, Sql DB, Python, JS. have excellent project management experience, Business Process & Systems Requirements Analysis. Skilled in planning and overseeing projects (by independent Team or within  organization), using PM tools and coordinating people and processes to deliver projects.
+
+**************
+Expert in understanding client requirements for ERPNext and suggesting possible solutions. Customizing the system according to the requirements of the work processes. Developing complete applications on the Frappe framework from scratch as per project requirements.installing and maintaining ERP solutions.Managing updates and upgrades to the ERPNext system, and ensure a smooth transition of customizations with Frappe and ERPNext upgrades.
+
+I have excellent knowledge of ERP needs, designing custom ERP solutions, and integrating ERP techniques with existing systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 instagram-32
@@ -32,9 +84,6 @@ gmail-32
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/gmail-32.png)]()
  -->
 </div>
-
-
-### Hi there 👋
 
 
 
