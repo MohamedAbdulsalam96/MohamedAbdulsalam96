@@ -19,14 +19,18 @@
 
 <!--End Header and Icons  -->
 
-### Hi there 👋
+## About.. 👋
 
-ERP Consultant, Projects Manager and Experienced Developer with a history of working in the ERP Systems Development (ERPNEXT). Skilled in Frappe Apps Development,  Analytical Skills, Sql DB, Python, JS. have excellent project management experience, Business Process & Systems Requirements Analysis. Skilled in planning and overseeing projects (by independent Team or within  organization), using PM tools and coordinating people and processes to deliver projects.
+> **ERP Consultant, Projects Manager and Experienced Developer** with a history of working in the ERP Systems Development (ERPNEXT). Skilled in Frappe Apps Development,  Analytical Skills, Sql DB, Python, JS. have excellent project management experience, Business Process & Systems Requirements Analysis. Skilled in planning and overseeing projects (by independent Team or within  organization), using PM tools and coordinating people and processes to deliver projects.
+
+> **I have excellent knowledge of ERP needs, designing custom ERP solutions, and integrating ERP techniques with existing systems.**
+
+> **Expert in** understanding client requirements for ERPNext and suggesting possible solutions. Customizing the system according to the requirements of the work processes. Developing complete applications on the Frappe framework from scratch as per project requirements.installing and maintaining ERP solutions.Managing updates and upgrades to the ERPNext system, and ensure a smooth transition of customizations with Frappe and ERPNext upgrades.
 
 **************
-Expert in understanding client requirements for ERPNext and suggesting possible solutions. Customizing the system according to the requirements of the work processes. Developing complete applications on the Frappe framework from scratch as per project requirements.installing and maintaining ERP solutions.Managing updates and upgrades to the ERPNext system, and ensure a smooth transition of customizations with Frappe and ERPNext upgrades.
 
-I have excellent knowledge of ERP needs, designing custom ERP solutions, and integrating ERP techniques with existing systems.
+
+
 
 
 
