@@ -8,12 +8,12 @@
         <p>Develop a new version of the world</p>
     </p>
 
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)]()			
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedalqadasi)			
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/gmail-32.png)]()
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)]()
 [![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)]()
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)]()
-[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)]()
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
+[![CI](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
 
 <!-- 
 instagram-32
@@ -58,4 +58,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# I can help you with:
+
+
 -->
