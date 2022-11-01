@@ -1,6 +1,6 @@
 <div align="center">
     <a href="">
-        <img src="/Mohamed Abdulsalam/public/images/my profile.jpg" height="500">
+        <img src="/Mohamed Abdulsalam/public/images/my profile.jpg" height="400">
     </a>
     <h1>Mohamed Abdulsalam</h1>
     <h2>Developer || ERP Consultant || Projects Manager</h2>
