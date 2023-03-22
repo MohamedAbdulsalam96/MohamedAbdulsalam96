@@ -29,7 +29,10 @@
 > **Expert in** understanding client requirements for ERPNext and suggesting possible solutions. Customizing the system according to the requirements of the work processes. Developing complete applications on the Frappe framework from scratch as per project requirements.installing and maintaining ERP solutions.Managing updates and upgrades to the ERPNext system, and ensure a smooth transition of customizations with Frappe and ERPNext upgrades.
 
 **************
-
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdulsalam96&show_icons=true&theme=swift&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdulsalam96&theme=swift" />
+</p>  
 
 
 
