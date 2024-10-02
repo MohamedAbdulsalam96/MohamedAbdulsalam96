@@ -41,6 +41,7 @@ Possess an in-depth understanding of ERPNEXT's capabilities and limitations, ena
 
 **In my quest for innovation, I am actively passionate about joining forces in innovative contributions and projects. Your Request for cooperation is not just welcomed; it is the catalyst for the extraordinary..**
 
+![](https://komarev.com/ghpvc/?username=MohamedAbdulsalam96)
 **************
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdulsalam96&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
