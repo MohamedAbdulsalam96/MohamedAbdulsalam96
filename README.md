@@ -6,11 +6,11 @@
         <p>Develop a new version of the world</p>
     </p>
       
-[![linkedin](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedabdulsalam96)		
-[![twitter](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/twitter-32.png)](https://twitter.com/MohamedAlqadasi?t=b0PhbTbVmK_Gqm0IPdI51w&s=09)
-[![facebook](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/facebook-32.png)](https://www.facebook.com/profile.php?id=100006434417374)
-[![whatsapp](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
-[![service](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/main/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
+[![linkedin](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedabdulsalam96)		
+[![twitter](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/twitter-32.png)](https://twitter.com/MohamedAlqadasi?t=b0PhbTbVmK_Gqm0IPdI51w&s=09)
+[![facebook](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/facebook-32.png)](https://www.facebook.com/profile.php?id=100006434417374)
+[![whatsapp](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/whatsapp-32.png)](https://wa.me/c/967774368459)
+[![service](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
 
 <!-- [https://discuss.erpnext.com](https://discuss.erpnext.com/u/mohamedabdulsalam/summary) -->
 
