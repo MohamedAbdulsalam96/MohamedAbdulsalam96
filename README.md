@@ -3,7 +3,7 @@
     <h3>Mohamed Abdulsalam</h3>
     <h4>ERP Consultant, Projects Manager and Developer</h4>
     <p align="center">
-        <p>Develop a new version of the world</p>
+        <p>To Develop a new version of the world</p>
     </p>
       
 [![linkedin](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/linkedin-32.png)](https://www.linkedin.com/in/mohamedabdulsalam96)		
@@ -13,9 +13,8 @@
 [![service](https://github.com/MohamedAbdulsalam96/MohamedAbdulsalam96/blob/master/Mohamed%20Abdulsalam/public/images/briefcase-32.png)](https://discuss.erpnext.com/u/mohamedabdulsalam/summary)
 
 <!-- [https://discuss.erpnext.com](https://discuss.erpnext.com/u/mohamedabdulsalam/summary) -->
-
+![](https://komarev.com/ghpvc/?username=MohamedAbdulsalam96)
 </div>
-
 <!--End Header and Icons  -->
   <hr>
   
