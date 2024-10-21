@@ -43,8 +43,14 @@ Possess an in-depth understanding of ERPNEXT's capabilities and limitations, ena
 
 **************
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdulsalam96&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdulsalam96&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdulsalam96&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+ 
+ <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdulsalam96&theme=radical" />
+
+<!-- Most Used Languages -->
+<img  width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdulsalam96&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MohamedAbdulsalam96" />
+
+
 </p>  
 
 
