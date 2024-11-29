@@ -20,7 +20,7 @@
   
 **About.. 👋**
 
-I'm a highly skilled and result-oriented professional with extensive experience in ERP Systems Development, Frappe Apps Development, Project Management, and Technical Development. I leverage my strong analytical skills, technical expertise, and comprehensive understanding of ERP needs to deliver exceptional client solutions.
+I'm a highly skilled and result-oriented professional with extensive experience in ERP Systems implementation, Frappe Apps Development, Project Management, and Technical Development. I leverage my strong analytical skills, technical expertise, and comprehensive understanding of ERP needs to deliver exceptional client solutions.
 
 **Key Strengths:**
 
