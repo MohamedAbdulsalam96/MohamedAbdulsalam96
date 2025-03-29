@@ -1,7 +1,7 @@
 <div align="center">
 <!--<a href=""><img src="/Mohamed Abdulsalam/public/images/my profile.jpg" height="400"> </a> -->
     <h3>Mohamed Abdulsalam</h3>
-    <h4>ERP Consultant, Projects Manager and Developer</h4>
+    <h4>ERP Consultant, Projects Manager and Software Engineer</h4>
     <p align="center">
         <p>To Develop a new version of the world</p>
     </p>
