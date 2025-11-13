@@ -48,9 +48,52 @@ Possess an in-depth understanding of ERPNEXT's capabilities and limitations, ena
 
 <!-- Most Used Languages -->
 <img  width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdulsalam96&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MohamedAbdulsalam96" />
+</p> 
+
+**************
+
+**---**
 
 
-</p>  
+**## 🧰 Tech \& Tools**
+
+**!\[Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)**
+
+**!\[ERPNext](https://img.shields.io/badge/ERPNext-v15-2496ED)**
+
+**!\[Frappe](https://img.shields.io/badge/Frappe-Framework-0097E6)**
+
+
+**!\[MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?logo=mysql\&logoColor=white)**
+
+**!\[Docker](https://img.shields.io/badge/Docker-Blue?logo=docker)**
+
+**!\[GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=github-actions\&logoColor=white)**
+
+**!\[Vue](https://img.shields.io/badge/Vue-3-4FC08D?logo=vue.js)**
+
+**!\[Vite](https://img.shields.io/badge/Vite--646CFF?logo=vite\&logoColor=white)**
+
+**!\[Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js\&logoColor=white)**
+
+
+
+
+**---**
+
+
+
+**## 📊 GitHub Stats**
+
+**!\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=defendicon\&show\_icons=true\&rank\_icon=github\&theme=transparent)**
+
+**!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defendicon\&layout=compact\&theme=transparent)**
+
+**!\[GitHub Streak](https://streak-stats.demolab.com?user=defendicon\&theme=transparent)**
+
+
+
+**---**
 
 
 
