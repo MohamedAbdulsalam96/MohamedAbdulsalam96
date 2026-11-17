@@ -1,7 +1,7 @@
 <div align="center">
 <!--<a href=""><img src="/Mohamed Abdulsalam/public/images/my profile.jpg" height="400"> </a> -->
     <h3>Mohamed Abdulsalam</h3>
-    <h4>ERP Consultant, Projects Manager and Software Engineer</h4>
+    <h4>ERP Consultant, Project Manager and Software Engineer</h4>
     <p align="center">
         <p>To Develop a new version of the world</p>
     </p>
@@ -24,16 +24,16 @@ I'm a highly skilled and result-oriented professional with extensive experience 
 
 **Key Strengths:**
 
-* **Deep ERPNEXT Expertise:** 
-Possess an in-depth understanding of ERPNEXT's capabilities and limitations, enabling me to effectively tailor solutions to client requirements.
+* **Deep ERPNext Expertise:** 
+Possess an in-depth understanding of ERPNext's capabilities and limitations, enabling me to effectively tailor solutions to client requirements.
 * **Proven Project Management Track Record:** in planning, overseeing, and delivering projects on time, utilizing PM tools and fostering team collaboration..
 * **Custom Solution Design:** Craft customized ERP solutions that seamlessly integrate with existing systems, streamlining business processes and enhancing efficiency.
-* **Client-Centric Approach:** Actively listen to clients, understand their unique needs, and suggest optimal solutions based on ERPNEXT's potential.
+* **Client-Centric Approach:** Actively listen to clients, understand their unique needs, and suggest optimal solutions based on ERPNext's potential.
 * **Frappe Framework Champion:** Adept at customizing the system to match specific workflow requirements and developing complete applications from scratch as needed.
-* **Seamless Implementation & Maintenance:** Ensure smooth ERP installations, manage updates and upgrades efficiently, and maintain compatibility with Frappe and ERPNEXT advancements.
+* **Seamless Implementation & Maintenance:** Ensure smooth ERP installations, manage updates and upgrades efficiently, and maintain compatibility with Frappe and ERPNext advancements.
 
 **Looking to collaborate on projects that:**
-* Utilize ERPNEXT for process optimization and business growth.
+* Utilize ERPNext for process optimization and business growth.
 * Require efficient project management and clear communication.
 * Demand skilled Frappe app development and customization.
 * Require Value proactive problem-solving and client-centric innovation.
